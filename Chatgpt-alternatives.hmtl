@@ -4,69 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ChatGPT Alternatives | ToolSwap</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/ToolSwap-Site/css/style.css">
 </head>
 <body>
 
 <header>
     <h1>ChatGPT Alternatives</h1>
-    <p>Looking for alternatives to ChatGPT? Compare features, pricing, and best use cases.</p>
     <nav>
-        <a href="index.html">Home</a> |
-        <a href="chatgpt-alternatives.html">ChatGPT Alternatives</a> |
-        <a href="notion-alternatives.html">Notion Alternatives</a> |
-        <a href="shopify-alternatives.html">Shopify Alternatives</a>
+        <a href="/ToolSwap-Site/index.html">Home</a> |
+        <a href="/ToolSwap-Site/chatgpt-alternatives.html">ChatGPT Alternatives</a> |
+        <a href="/ToolSwap-Site/notion-alternatives.html">Notion Alternatives</a> |
+        <a href="/ToolSwap-Site/shopify-alternatives.html">Shopify Alternatives</a> |
+        <a href="/ToolSwap-Site/chatgpt-vs-claude.html">ChatGPT vs Claude</a> |
+        <a href="/ToolSwap-Site/notion-vs-evernote.html">Notion vs Evernote</a>
     </nav>
 </header>
 
 <main>
-<section id="comparison">
-    <h2>Top Alternatives to ChatGPT</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Tool</th>
-                <th>Price</th>
-                <th>Best For</th>
-                <th>Link</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Claude</td>
-                <td>$0–$20/mo</td>
-                <td>AI Assistants for writing & research</td>
-                <td><a href="#">Affiliate Link</a></td>
-            </tr>
-            <tr>
-                <td>Notion AI</td>
-                <td>$8–$20/mo</td>
-                <td>Productivity + note-taking</td>
-                <td><a href="#">Affiliate Link</a></td>
-            </tr>
-            <tr>
-                <td>Perplexity AI</td>
-                <td>Free / Subscription</td>
-                <td>Answer-focused AI search</td>
-                <td><a href="#">Affiliate Link</a></td>
-            </tr>
-        </tbody>
-    </table>
-</section>
-
-<section id="calculator">
-    <h2>Switch Savings Calculator</h2>
-    <label>Current monthly cost: $<input type="number" id="currentCost" value="50"></label><br>
-    <label>Number of users: <input type="number" id="users" value="1"></label><br>
-    <button onclick="calculateSavings()">Calculate Savings</button>
-    <p id="result">You could save $0/month by switching.</p>
-</section>
+    <p>Compare ChatGPT with other AI tools. See pros, cons, and alternatives.</p>
 </main>
 
 <footer>
-    <p>&copy; 2026 ToolSwap | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Service</a></p>
+    <p>&copy; 2026 ToolSwap | <a href="/ToolSwap-Site/privacy.html">Privacy Policy</a> | <a href="/ToolSwap-Site/terms.html">Terms of Service</a></p>
 </footer>
 
-<script src="js/calculator.js"></script>
 </body>
 </html>
